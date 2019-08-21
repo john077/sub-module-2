@@ -3,3 +3,10 @@ sub module 2
 edit sub module 2 on master for 2
 
 edit sub module 2 in main repo
+
+edit on dev branch
+
+edit on dev for 2
+
+edit sub module 2 on dev for 3
+
